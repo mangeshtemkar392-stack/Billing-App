@@ -15,10 +15,10 @@ A desktop billing application developed using Python.
 ## Screenshots
 
 ### Main Screen
-![Main Screen] ("C:\Users\mangesh\OneDrive\Pictures\Screenshots\Billing_Invoice.png")
+![Main Screen](screenshots/Billing_App.png)
 
 ### Generated Invoice
-![Invoice](screenshots/invoice.png)
+![Invoice](screenshots/Billing_Invoice.png)
 
 ## How to Run
 
