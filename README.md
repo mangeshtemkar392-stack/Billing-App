@@ -15,11 +15,10 @@ A desktop billing application developed using Python.
 ## Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/Billing_App.png)
+![Main Screen](Billing_App.png)
 
 ### Generated Invoice
-![Invoice](screenshots/Billing_Invoice.png)
-
+![Invoice](Billing_Invoice.png)
 ## How to Run
 
 ```bash
